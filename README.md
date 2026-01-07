@@ -267,7 +267,7 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 ## ✦ Author
 
-**v1xite**
+**v1xite (known as Liyfez now)**
 
 📘 [AniList](https://anilist.co/user/l1e)  
 📸 [Instagram](https://instagram.com/liyfez)  
