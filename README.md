@@ -256,7 +256,7 @@
 
 ## <img src="assets/gifs/onepiece.gif" alt="ship" width="30"/> **Information about project**
 
-Facts: 190 <br>
+Facts: 190+ <br>
 Workflow: JavaScript & Vercel <br>
 Themes: Total 44, Dark Themes 23, Light Themes 21.  <br>
 
