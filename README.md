@@ -254,6 +254,10 @@
 
 ---
 
+## Informations about project
+Facts: 190
+Workflow: JavaScript & Vercel
+
 ### Inspired from: 
 [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
 
@@ -265,14 +269,11 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 ---
 
-## ✦ Author
+## Author
 
-**v1xite (known as Liyfez now)**
+**Liyfez**
 
-📘 [AniList](https://anilist.co/user/l1e)  
 📸 [Instagram](https://instagram.com/liyfez)  
-🎵 [TikTok](https://tiktok.com/@liyf.ez)  
-📌 [Pinterest](https://pinterest.com/v1xite)  
 💻 [GitHub](https://github.com/liyfez)
 
 <p align="center">
