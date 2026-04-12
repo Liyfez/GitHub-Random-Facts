@@ -273,7 +273,7 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 ---
 
-## Author
+## <img src="assets/gifs/Jotaro.gif" alt="Jotaro" width="30"/> Author
 
 **Liyfez**
 
