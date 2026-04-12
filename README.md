@@ -273,7 +273,9 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 ---
 
-## <img src="assets/gifs/yareyare.gif" alt="Jotaro" width="100"/> Author
+<p align="center">
+# <img src="assets/gifs/yareyare.gif" alt="Jotaro" width="300"/> Author
+</p>
 
 **Liyfez**
 
