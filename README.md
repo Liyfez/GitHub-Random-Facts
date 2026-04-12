@@ -256,10 +256,8 @@
 
 ## Informations about project
 **Facts:** 190 <br>
-**Workflow:** JavaScript & Vercel &#8203;
-**Themes:** Total 44, Dark Themes 23, Light Themes 21.   </a>
-TEST
-
+**Workflow:** JavaScript & Vercel <br>
+**Themes:** Total 44, Dark Themes 23, Light Themes 21.  <br>
 ---
 
 ### Inspired from: 
