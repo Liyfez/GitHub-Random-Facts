@@ -255,8 +255,11 @@
 ---
 
 ## Informations about project
-Facts: 190
-Workflow: JavaScript & Vercel
+**Facts:** 190
+**Workflow:** JavaScript & Vercel
+**Themes:** Total 44, Dark Themes 23, Light Themes 21.
+
+---
 
 ### Inspired from: 
 [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
