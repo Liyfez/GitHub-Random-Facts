@@ -274,7 +274,7 @@ If you find this useful, consider leaving a star — it truly helps the project 
 ---
 
 <div align="center">
-  <img src="assets/gifs/yareyare.gif" alt="Jotaro" width="150" align="center"/>
+  <img src="assets/gifs/frieren.gif" alt="Jotaro" width="150" align="center"/>
   <b>Author</b>
 </div>
 
