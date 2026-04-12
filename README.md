@@ -253,8 +253,8 @@
 </div>
 
 ---
-assets/gifs/onepiece.gif
-<img src="assets/gifs/onepiece.gif" alt="ship" width="15"/> **Information about project**
+
+<img src="assets/gifs/onepiece.gif" alt="ship" width="30"/> **Information about project**
 
 Facts: 190 <br>
 Workflow: JavaScript & Vercel <br>
