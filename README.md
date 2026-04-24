@@ -278,8 +278,6 @@ If you find this useful, consider leaving a star — it truly helps the project 
   <h2>Author</h2>
 </div>
               
-**Liyfez**
-
 📸 [Instagram](https://instagram.com/liyfez)  
 💻 [GitHub](https://github.com/liyfez)
 
