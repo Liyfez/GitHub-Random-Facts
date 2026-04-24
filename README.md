@@ -274,8 +274,8 @@ If you find this useful, consider leaving a star — it truly helps the project 
 ---
 
 <div align="center">
-  <img src="assets/gifs/frieren.gif" alt="Frieren" height="40" style="vertical-align: middle; margin-right: 10px;" />
-  <h2 style="display: inline; vertical-align: middle;">Author</h2>
+  <img src="assets/gifs/frieren.gif" alt="Frieren" width="80" />
+  <h2>Author</h2>
 </div>
               
 **Liyfez**
