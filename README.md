@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/v1xite">
-    <img src="assets/github_logo/liyfezjs2.png" width="10%" alt="Liyfez GitHub Profile" />
+    <img src="assets/github_logo/liyfezjs2.png" width="30%" alt="Liyfez GitHub Profile" />
   </a>
 </p>
     
@@ -282,6 +282,6 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 <p align="center">
   <a href="https://github.com/v1xite">
-    <img src="assets/github_logo/liyfezja.png" width="25%" alt="Made by Liyfez and JavaScript">
+    <img src="assets/github_logo/liyfezjs.png" width="25%" alt="Made by Liyfez and JavaScript">
   </a>
 </p>
