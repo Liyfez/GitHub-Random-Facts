@@ -10,9 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/v1xite">
-    <img src="assets/github_logo/v1xite_github3.png" width="10%" alt="v1xite GitHub Profile" />
+    <img src="assets/github_logo/liyfezjs2.png" width="10%" alt="v1xite GitHub Profile" />
   </a>
-  <img src="assets/github_logo/v1xite_javascript.png" width="10%" alt="JavaScript Logo" />
 </p>
     
 
@@ -283,6 +282,6 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 <p align="center">
   <a href="https://github.com/v1xite">
-    <img src="assets/github_logo/mbj.png" width="25%" alt="Made by v1xite and JavaScript">
+    <img src="assets/github_logo/liyfezja.png" width="25%" alt="Made by v1xite and JavaScript">
   </a>
 </p>
