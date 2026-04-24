@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/v1xite">
+  <a href="https://github.com/liyfez">
     <img src="assets/github_logo/liyfezjs2.png" width="30%" alt="Liyfez GitHub Profile" />
   </a>
 </p>
