@@ -128,57 +128,57 @@ module.exports = (req, res) => {
       quoteColor: '#FF3B6B'
     },
     light_blue: {
-      bgColor: '#F5F5F5',
+      bgColor: '#EAF4FF',
       textColor: '#111111',
       quoteColor: '#4DA6FF'
     },
     light_red: {
-      bgColor: '#F5F5F5',
+      bgColor: '#FFEAEB',
       textColor: '#111111',
       quoteColor: '#FF4D4D'
     },
     light_orange: {
-      bgColor: '#F5F5F5',
+      bgColor: '#FFF3EA',
       textColor: '#111111',
       quoteColor: '#FF974D'
     },
     light_yellow: {
-      bgColor: '#F5F5F5',
+      bgColor: '#FFFCEA',
       textColor: '#111111',
       quoteColor: '#E5D200'
     },
     light_green: {
-      bgColor: '#F5F5F5',
+      bgColor: '#EAF8EE',
       textColor: '#111111',
       quoteColor: '#00C73A'
     },
     light_ocean_blue: {
-      bgColor: '#F5F5F5',
+      bgColor: '#EAF9F6',
       textColor: '#111111',
       quoteColor: '#00D4B8'
     },
     light_ocean: {
-      bgColor: '#F5F5F5',
+      bgColor: '#EAF7FF',
       textColor: '#111111',
       quoteColor: '#25C2FF'
     },
     light_indigo: {
-      bgColor: '#F5F5F5',
+      bgColor: '#EBEAFF',
       textColor: '#111111',
       quoteColor: '#4D4DFF'
     },
     light_purple: {
-      bgColor: '#F5F5F5',
+      bgColor: '#F3EAFF',
       textColor: '#111111',
       quoteColor: '#974DFF'
     },
     light_pink: {
-      bgColor: '#F5F5F5',
+      bgColor: '#FFEAFD',
       textColor: '#111111',
       quoteColor: '#FF4DED'
     },
     light_radical_red: {
-      bgColor: '#F5F5F5',
+      bgColor: '#FFEAF1',
       textColor: '#111111',
       quoteColor: '#FF4D8E'
     },
