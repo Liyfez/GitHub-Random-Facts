@@ -128,59 +128,59 @@ module.exports = (req, res) => {
       quoteColor: '#FF3B6B'
     },
     light_blue: {
-      bgColor: '#EAF4FF',
-      textColor: '#111111',
-      quoteColor: '#4DA6FF'
+      bgColor: '#D9ECFF',
+      textColor: '#003B73',
+      quoteColor: '#0078D7'
     },
     light_red: {
-      bgColor: '#FFEAEB',
-      textColor: '#111111',
-      quoteColor: '#FF4D4D'
+      bgColor: '#FFD6D6',
+      textColor: '#800000',
+      quoteColor: '#E60000'
     },
     light_orange: {
-      bgColor: '#FFF3EA',
-      textColor: '#111111',
-      quoteColor: '#FF974D'
+      bgColor: '#FFE5CC',
+      textColor: '#8C4000',
+      quoteColor: '#FF7300'
     },
     light_yellow: {
-      bgColor: '#FFFCEA',
-      textColor: '#111111',
-      quoteColor: '#E5D200'
+      bgColor: '#FFF5CC',
+      textColor: '#735900',
+      quoteColor: '#D4A000'
     },
     light_green: {
-      bgColor: '#EAF8EE',
-      textColor: '#111111',
-      quoteColor: '#00C73A'
+      bgColor: '#D6F5D6',
+      textColor: '#004D00',
+      quoteColor: '#009900'
     },
     light_ocean_blue: {
-      bgColor: '#EAF9F6',
-      textColor: '#111111',
-      quoteColor: '#00D4B8'
+      bgColor: '#CCF5F0',
+      textColor: '#004D40',
+      quoteColor: '#00B398'
     },
     light_ocean: {
-      bgColor: '#EAF7FF',
-      textColor: '#111111',
-      quoteColor: '#25C2FF'
+      bgColor: '#CCEFFF',
+      textColor: '#004C80',
+      quoteColor: '#0099FF'
     },
     light_indigo: {
-      bgColor: '#EBEAFF',
-      textColor: '#111111',
+      bgColor: '#E0E0FF',
+      textColor: '#202080',
       quoteColor: '#4D4DFF'
     },
     light_purple: {
-      bgColor: '#F3EAFF',
-      textColor: '#111111',
-      quoteColor: '#974DFF'
+      bgColor: '#ECD9FF',
+      textColor: '#400080',
+      quoteColor: '#8C1AFF'
     },
     light_pink: {
-      bgColor: '#FFEAFD',
-      textColor: '#111111',
-      quoteColor: '#FF4DED'
+      bgColor: '#FFD9FA',
+      textColor: '#80006B',
+      quoteColor: '#FF1AE6'
     },
     light_radical_red: {
-      bgColor: '#FFEAF1',
-      textColor: '#111111',
-      quoteColor: '#FF4D8E'
+      bgColor: '#FFD6E6',
+      textColor: '#800033',
+      quoteColor: '#FF1A75'
     },
     frost: {
       bgColor: '#F7F9FC',
