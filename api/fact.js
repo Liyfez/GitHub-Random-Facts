@@ -188,69 +188,69 @@ module.exports = (req, res) => {
       quoteColor: '#FF1A75'
     },
     frost: {
-      bgColor: '#F4F7FB',
-      textColor: '#2B3648',
-      quoteColor: '#7A9CB5'
+      bgColor: '#D4F1F4',
+      textColor: '#05445E',
+      quoteColor: '#189AB4'
     },
     polar_day: {
-      bgColor: '#FFFFFF',
-      textColor: '#223046',
-      quoteColor: '#4F9DB8'
+      bgColor: '#FDFBF7',
+      textColor: '#1E3D59',
+      quoteColor: '#FFC13B'
     },
     silver_mist: {
-      bgColor: '#EAECEF',
-      textColor: '#3B4048',
-      quoteColor: '#898D96'
+      bgColor: '#E2E8F0',
+      textColor: '#334155',
+      quoteColor: '#94A3B8'
     },
     cloudveil: {
-      bgColor: '#F8F9FA',
-      textColor: '#343A40',
-      quoteColor: '#D3A3B4'
+      bgColor: '#FFE4F2',
+      textColor: '#590D22',
+      quoteColor: '#FF8FAB'
     },
     dawnlight: {
-      bgColor: '#FCFBF7',
-      textColor: '#4A4036',
-      quoteColor: '#DDA77B'
+      bgColor: '#FFF0D4',
+      textColor: '#5C3A21',
+      quoteColor: '#F08A5D'
     },
     willow: {
-      bgColor: '#F3F6F3',
-      textColor: '#3E4C41',
-      quoteColor: '#849E87'
+      bgColor: '#E0F2E9',
+      textColor: '#204E4A',
+      quoteColor: '#4CAF50'
     },
     tide: {
-      bgColor: '#EAF1F1',
-      textColor: '#2F4846',
-      quoteColor: '#6DA3A0'
+      bgColor: '#C2F0FC',
+      textColor: '#004C6D',
+      quoteColor: '#0096C7'
     },
     ether: {
-      bgColor: '#F5F4F7',
-      textColor: '#423A4A',
-      quoteColor: '#A191B0'
+      bgColor: '#EFE6FF',
+      textColor: '#240046',
+      quoteColor: '#9D4EDD'
     },
     nimbus: {
-      bgColor: '#EDF0F2',
-      textColor: '#364149',
-      quoteColor: '#758896'
+      bgColor: '#D9E2E8',
+      textColor: '#2B2D42',
+      quoteColor: '#8D99AE'
     },
     crystal: {
-      bgColor: '#F5F8FA',
-      textColor: '#2A3C4B',
-      quoteColor: '#8EB2C5'
+      bgColor: '#E0FFFF',
+      textColor: '#0B0C10',
+      quoteColor: '#66FCF1'
     },
     matcha_latte: {
-      bgColor: '#F5F5F0',
-      textColor: '#484A3B',
-      quoteColor: '#959C7D'
+      bgColor: '#E8F5E9',
+      textColor: '#1B5E20',
+      quoteColor: '#8BC34A'
     },
     sunset_glow: {
-      bgColor: '#FAF4F2',
-      textColor: '#5C403B',
-      quoteColor: '#D19C8A'
+      bgColor: '#FFEBEE',
+      textColor: '#BF360C',
+      quoteColor: '#FF5722'
     },
     lavender_mist: {
-      bgColor: '#F4F1F8',
-      textColor: '#463D52',
-      quoteColor: '#A591AD'
+      bgColor: '#F3E5F5',
+      textColor: '#4A148C',
+      quoteColor: '#AB47BC'
     }
   };
 
