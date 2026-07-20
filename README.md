@@ -1,9 +1,10 @@
 <p align="center"> 
   <img align="center" src="assets/logo/wave.png" height="60px" width="60px" />
 
-  <h1 align="center">Github Random Facts</h1>
-  <h3 align="center">Random IT/Programming Facts For Your GitHub Profile Readme.</h3>
+  <h1 align="center">IT-Fact</h1>
 
+<p align="center">
+  <strong>Random IT/Programming Facts For Your GitHub Profile Readme</strong>
 </p>
 
 
@@ -20,8 +21,8 @@
 
 - Add this snippet to your README:
   ```md
-  ### 🌊 Random IT Facts
-  ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
+  ### 🌊 IT-Fact
+  ![IT-Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
 - To use another theme: change the value of theme= (example: theme=arctic)
 - All available themes are shown below.
 
