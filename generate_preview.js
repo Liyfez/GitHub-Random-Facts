@@ -27,6 +27,7 @@ const themes = {
   arctic:           { bgColor: '#131B24', textColor: '#D4E9F5', quoteColor: '#73D5FF' },
   azure:            { bgColor: '#161B22', textColor: '#BFD8FF', quoteColor: '#4D8CFF' },
   crimson_core:     { bgColor: '#12171F', textColor: '#E9C1C1', quoteColor: '#FF3B6B' },
+  cyber_neon:       { bgColor: '#0A0A12', textColor: '#00FFCC', quoteColor: '#FF00FF' },
 
   // --- Light Themes ---
   light_blue:       { bgColor: '#D9ECFF', textColor: '#003B73', quoteColor: '#0078D7' },
@@ -49,7 +50,10 @@ const themes = {
   tide:             { bgColor: '#F3FAF9', textColor: '#1A2C2A', quoteColor: '#32D6C5' },
   ether:            { bgColor: '#F6F6FF', textColor: '#27273A', quoteColor: '#9A6DFF' },
   nimbus:           { bgColor: '#F4F6F8', textColor: '#1D232B', quoteColor: '#5AA6FF' },
-  crystal:          { bgColor: '#F0F7FF', textColor: '#1B2B3A', quoteColor: '#68B9FF' }
+  crystal:          { bgColor: '#F0F7FF', textColor: '#1B2B3A', quoteColor: '#68B9FF' },
+  matcha_latte:     { bgColor: '#F1F8F1', textColor: '#4D6B50', quoteColor: '#A5C9A5' },
+  sunset_glow:      { bgColor: '#FFF5F0', textColor: '#7A3B3E', quoteColor: '#FF9A76' },
+  lavender_mist:    { bgColor: '#F8F5FB', textColor: '#5A4C73', quoteColor: '#BCA1E6' }
 };
 
 // 2. Create the directory

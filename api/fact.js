@@ -127,6 +127,11 @@ module.exports = (req, res) => {
       textColor: '#E9C1C1',
       quoteColor: '#FF3B6B'
     },
+    cyber_neon: {
+      bgColor: '#0A0A12',
+      textColor: '#00FFCC',
+      quoteColor: '#FF00FF'
+    },
     light_blue: {
       bgColor: '#D9ECFF',
       textColor: '#003B73',
@@ -231,6 +236,21 @@ module.exports = (req, res) => {
       bgColor: '#F0F7FF',
       textColor: '#1B2B3A',
       quoteColor: '#68B9FF'
+    },
+    matcha_latte: {
+      bgColor: '#F1F8F1',
+      textColor: '#4D6B50',
+      quoteColor: '#A5C9A5'
+    },
+    sunset_glow: {
+      bgColor: '#FFF5F0',
+      textColor: '#7A3B3E',
+      quoteColor: '#FF9A76'
+    },
+    lavender_mist: {
+      bgColor: '#F8F5FB',
+      textColor: '#5A4C73',
+      quoteColor: '#BCA1E6'
     }
   };
 
