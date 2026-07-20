@@ -128,9 +128,9 @@ module.exports = (req, res) => {
       quoteColor: '#FF3B6B'
     },
     cyber_neon: {
-      bgColor: '#0A0A12',
-      textColor: '#00FFCC',
-      quoteColor: '#FF00FF'
+      bgColor: '#090A0F',
+      textColor: '#FCEE0A',
+      quoteColor: '#FF003C'
     },
     light_blue: {
       bgColor: '#D9ECFF',
