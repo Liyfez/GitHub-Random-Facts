@@ -142,7 +142,10 @@
       <img src="./assets/themes/crimson_core.svg" alt="crimson_core" width="260"/>
       <br/><code>crimson_core</code>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="./assets/themes/cyber_neon.svg" alt="cyber_neon" width="260"/>
+      <br/><code>cyber_neon</code>
+    </td>
   </tr>
 </table>
 
@@ -249,6 +252,20 @@
       <br/><code>crystal</code>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/matcha_latte.svg" alt="matcha_latte" width="260"/>
+      <br/><code>matcha_latte</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/sunset_glow.svg" alt="sunset_glow" width="260"/>
+      <br/><code>sunset_glow</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/lavender_mist.svg" alt="lavender_mist" width="260"/>
+      <br/><code>lavender_mist</code>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -258,7 +275,7 @@
 
 💡 Facts: 190+ <br>
 ⚙️ Workflow: JavaScript & Vercel <br>
-🎨 Themes: Total 44, Dark Themes 23, Light Themes 21. <br>
+🎨 Themes: Total 48, Dark Themes 24, Light Themes 24. <br>
 
 ---
 
