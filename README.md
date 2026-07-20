@@ -143,8 +143,8 @@
       <br/><code>crimson_core</code>
     </td>
     <td align="center">
-      <img src="./assets/themes/cyber_neon.svg" alt="cyber_neon" width="260"/>
-      <br/><code>cyber_neon</code>
+      <img src="./assets/themes/blood_moon.svg" alt="blood_moon" width="260"/>
+      <br/><code>blood_moon</code>
     </td>
   </tr>
 </table>

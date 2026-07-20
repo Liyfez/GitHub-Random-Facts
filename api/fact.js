@@ -127,10 +127,10 @@ module.exports = (req, res) => {
       textColor: '#E9C1C1',
       quoteColor: '#FF3B6B'
     },
-    cyber_neon: {
-      bgColor: '#090A0F',
-      textColor: '#FCEE0A',
-      quoteColor: '#FF003C'
+    blood_moon: {
+      bgColor: '#0F0505',
+      textColor: '#E5B3B3',
+      quoteColor: '#FF0033'
     },
     light_blue: {
       bgColor: '#D9ECFF',

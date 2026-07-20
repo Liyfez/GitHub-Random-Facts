@@ -27,7 +27,7 @@ const themes = {
   arctic:           { bgColor: '#131B24', textColor: '#D4E9F5', quoteColor: '#73D5FF' },
   azure:            { bgColor: '#161B22', textColor: '#BFD8FF', quoteColor: '#4D8CFF' },
   crimson_core:     { bgColor: '#12171F', textColor: '#E9C1C1', quoteColor: '#FF3B6B' },
-  cyber_neon:       { bgColor: '#090A0F', textColor: '#FCEE0A', quoteColor: '#FF003C' },
+  blood_moon:       { bgColor: '#0F0505', textColor: '#E5B3B3', quoteColor: '#FF0033' },
 
   // --- Light Themes ---
   light_blue:       { bgColor: '#D9ECFF', textColor: '#003B73', quoteColor: '#0078D7' },
