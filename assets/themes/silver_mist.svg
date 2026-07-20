@@ -1,6 +1,6 @@
 <svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F2F4F7"/>
-  <text x="20" y="50" fill="#8A7BFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#222831">silver_mist</text>
-  <text x="240" y="50" fill="#8A7BFF" font-family="Georgia" font-size="32">”</text>
+  <rect width="260" height="80" rx="10" fill="#EAECEF"/>
+  <text x="20" y="50" fill="#898D96" font-family="Georgia" font-size="32">“</text>
+  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#3B4048">silver_mist</text>
+  <text x="240" y="50" fill="#898D96" font-family="Georgia" font-size="32">”</text>
 </svg>

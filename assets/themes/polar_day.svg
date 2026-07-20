@@ -1,6 +1,6 @@
 <svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5FAFF"/>
-  <text x="20" y="50" fill="#47C5FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#1A2738">polar_day</text>
-  <text x="240" y="50" fill="#47C5FF" font-family="Georgia" font-size="32">”</text>
+  <rect width="260" height="80" rx="10" fill="#FFFFFF"/>
+  <text x="20" y="50" fill="#4F9DB8" font-family="Georgia" font-size="32">“</text>
+  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#223046">polar_day</text>
+  <text x="240" y="50" fill="#4F9DB8" font-family="Georgia" font-size="32">”</text>
 </svg>
